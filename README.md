@@ -164,7 +164,8 @@ crud.html
 ```
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/3d1dd342-1694-4b26-a3a7-c81a2fa600b1" />
+
 
 
 ## RESULT
